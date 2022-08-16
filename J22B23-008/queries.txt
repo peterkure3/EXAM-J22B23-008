@@ -1,0 +1,3 @@
+SELECT * FROM titles;
+SELECT COUNT(title) FROM titles;
+SELECT title FROM titles WHERE id = 5;
